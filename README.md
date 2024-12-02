@@ -40,7 +40,7 @@ This project implements a machine learning-based spam email detection system tha
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/spam-email-detection.git
+git clone https://github.com/Aakash768/Spam-Email-Detection.git
 cd spam-email-detection
 ```
 
@@ -87,11 +87,3 @@ The system uses various machine learning algorithms and achieves competitive per
 - Balanced precision and recall
 - Robust performance on unseen data
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contact
-For any queries or suggestions, please open an issue in the GitHub repository.
